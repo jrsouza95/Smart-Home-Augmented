@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="smart-home" size="500.000000 500.000000" />
+    <ImageTarget name="IoT" size="5703.000000 2999.323730" />
+    <ImageTarget name="marker_IOT" size="0.447000 0.292566" />
+  </Tracking>
+</QCARConfig>
